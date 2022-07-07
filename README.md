@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JimMakhonko
-- 👀 I’m interested in C# and Unity game development.
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on game or any other projects which will bump up my skill.
+- 👀 I’m interested in Java development.
+- 💞️ I’m looking to collaborate on any projects which will bump up my skill.
 - 📫 How to reach me  - yobaua@gmail.com, https://www.linkedin.com/in/ievgenii-makhonko-90014b116/, tel. +86 155-075-45-409
 
 <!---
